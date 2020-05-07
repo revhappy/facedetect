@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG-72064d0a20cd73c9a8137f5e431095e5-V.jpg</filename>
+	<path>C:\object_detection_demo\data\images\IMG-72064d0a20cd73c9a8137f5e431095e5-V.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>311</ymin>
+			<xmax>416</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>
